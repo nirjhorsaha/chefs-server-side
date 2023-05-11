@@ -4,12 +4,14 @@
         "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=740&t=st=1682962744~exp=1682963344~hmac=b5d5cc83bbaed743ca6c17ccf3f94689be002f8a8fe3302b8e2b0ae767a41fab",
         "name": "John Smith",
         "bio": "Chef John Smith is a classically trained chef with a passion for French cuisine. He honed his skills at Le Cordon Bleu in Paris and has worked in Michelin-starred restaurants around the world.",
+        "designation": "Technical Director",
         "years_of_experience": 10,
         "ratings": 4.8,
         "no_of_recipes": 3,
         "recipes": [
             {
                 "name": "Beef Wellington",
+                "image":"https://img.freepik.com/free-photo/side-view-chicken-schnitzel-with-tomato-greens-pomegranate-sauce-plate_141793-3615.jpg?w=740&t=st=1683299880~exp=1683300480~hmac=a428b542703a2df4d4a282a849d1283e5f6eea80f4e4e6e1f03c959274df1e8a",
                 "ingredients": [
                     "beef tenderloin",
                     "puff pastry",
@@ -18,10 +20,11 @@
                     "prosciutto"
                 ],
                 "cooking_method": "Preheat the oven to 425 degrees F. Sear the beef tenderloin in a hot pan until browned on all sides. Spread a layer of duxelles (finely chopped mushrooms and shallots) on top of the prosciutto. Wrap the beef in the prosciutto and duxelles mixture. Roll out the puff pastry and wrap it around the beef. Brush with egg wash and bake for 20-25 minutes or until the pastry is golden brown.",
-                "rating": 4.8
+                "rating": 4.0
             },
             {
                 "name": "Lobster Bisque",
+                "image":"https://img.freepik.com/free-photo/delicious-shrimp-dish-high-angle_23-2148771282.jpg?w=740&t=st=1683300166~exp=1683300766~hmac=51e657b7766e641c1c2ff67a0a0fd432e4b12b5a2ae5504cf151b21c25ed5069",
                 "ingredients": [
                     "lobster meat",
                     "heavy cream",
@@ -34,6 +37,7 @@
             },
             {
                 "name": "Creme Brulee",
+                "image":"https://img.freepik.com/free-photo/traditional-turkish-sutlac-sutlach-cooked-served-with-cinnamon-sticks_114579-1838.jpg?w=740&t=st=1683300213~exp=1683300813~hmac=da3974b7dc44e8461e491a588c85dd0e3cba7053fe15f94b6775d2af8327d4c8",
                 "ingredients": [
                     "heavy cream",
                     "egg yolks",
@@ -51,12 +55,14 @@
         "picture": "https://img.freepik.com/free-photo/young-female-cooking-white-cook-suit-white-cap-smiling-surprised_140725-16464.jpg?w=740&t=st=1682962929~exp=1682963529~hmac=ab605d5d1594618159c683bbf1a453b77b0f6478c5ce10c41aa17f70d4d5b262",
         "name": "Maria Garcia",
         "bio": "Chef Maria Garcia is a master of Mexican cuisine, with a focus on traditional techniques and fresh, local ingredients. She has won multiple awards for her innovative and authentic dishes.",
+        "designation":"Cuisine Chef Instructor",
         "years_of_experience": 5,
         "ratings": 4.3,
         "no_of_recipes": 3,
         "recipes": [
             {
                 "name": "Enchiladas",
+                "image":"https://img.freepik.com/free-photo/cannelloni-with-beef-spinach-sauce_2829-19552.jpg?w=740&t=st=1683300258~exp=1683300858~hmac=4d9ad6592f2a6a7126b1fbd2d0dac52ed1ecde7305653bcd0d5241ac4d6722b0",
                 "ingredients": [
                     "corn tortillas",
                     "shredded chicken",
@@ -65,10 +71,11 @@
                     "cilantro"
                 ],
                 "cooking_method": "Preheat the oven to 350 degrees F. In a large bowl, mix together the shredded chicken, tomato sauce, onion, and cilantro. Soften the corn tortillas in a hot pan and fill each with the chicken mixture. Roll up the tortillas and place them in a baking dish. Cover with more tomato sauce and bake for 20-25 minutes or until heated through.",
-                "rating": 4.7
+                "rating": 4.0
             },
             {
                 "name": "Spaghetti Bolognese",
+                "image":"https://img.freepik.com/free-photo/spaghetti-with-mixed-ingredients-white-plate_114579-15091.jpg?w=740&t=st=1683300295~exp=1683300895~hmac=51bbbf1502b43d4ec8c443578169bbac139595a58cb6c88a98f8bd21572aa19f",
                 "ingredients": [
                     "spaghetti",
                     "ground beef",
@@ -81,6 +88,7 @@
             },
             {
                 "name": "Chicken Parmesan",
+                "image":"https://img.freepik.com/free-photo/beyti-wrapped-kebab-topped-with-tomato-sauce-served-with-tomato-pepper-yoghurt_140725-545.jpg?w=740&t=st=1683300328~exp=1683300928~hmac=eec3f2e2e4eebebb12be3fec207f3dc6452857cc0920e4770b91bdbc745ae635",
                 "ingredients": [
                     "chicken breast",
                     "bread crumbs",
@@ -95,15 +103,17 @@
     },
     {
         "id": 3,
-        "picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?w=740&t=st=1682962827~exp=1682963427~hmac=a0ec358def098a49feff42b445db955f8d1311571ebbb8f73ef97d4857cfa865",
+        "picture": "https://img.freepik.com/free-photo/portrait-chef-presenting-copyspace_23-2148006366.jpg?w=740&t=st=1683749853~exp=1683750453~hmac=f2a33718713a0cd72f06f05375debabfbfe50659993f4e40952f93a42802f30d",
         "name": "David Lee",
         "bio": "Chef David Lee is a Korean-American chef who blends traditional Korean flavors with modern techniques to create unique and delicious dishes. He has been featured in several major food magazines and TV shows.",
+        "designation":"Supervisory Instructor for Practical- Cuisine",
         "years_of_experience": 7,
         "ratings": 4.7,
         "no_of_recipes": 3,
         "recipes": [
             {
                 "name": "Beef Stir Fry",
+                "image":"https://img.freepik.com/free-photo/delicious-carrot-beef-brisket-casserole_1205-12295.jpg?w=740&t=st=1683300360~exp=1683300960~hmac=d6d3b07b418ac808d0910bed50547eb3f41df5162753427a8841e2c95f610cff",
                 "ingredients": [
                     "beef strips",
                     "broccoli",
@@ -116,6 +126,7 @@
             },
             {
                 "name": "Mushroom Risotto",
+                "image":"https://img.freepik.com/free-photo/vegetarian-risotto-with-fresh-mushrooms-parmesan-cheese-generated-by-ai_188544-10223.jpg?w=826&t=st=1683300397~exp=1683300997~hmac=c731f4502bcf068a33a565b9dd74821b922d09eda7766237c25de7e4236ceaeb",
                 "ingredients": [
                     "arborio rice",
                     "chicken broth",
@@ -128,6 +139,7 @@
             },
             {
                 "name": "Crispy Baked Chicken Wings",
+                "image":"https://img.freepik.com/free-photo/crispy-kentucky-fried-chicken-black-slate-background_123827-22525.jpg?w=740&t=st=1683300432~exp=1683301032~hmac=00bbb7b76ee48ce93003f4520ab2937c75ea4a587b9ce0c112a8c18952b907d4",
                 "ingredients": [
                     "chicken wings",
                     "flour",
@@ -145,12 +157,14 @@
         "picture": "https://img.freepik.com/free-photo/pleased-young-male-cook-wearing-chef-uniform-glasses-crossing-hands-standing-white-wall-isolated-yellow-wall-with-copy-space_141793-78448.jpg?w=740&t=st=1682962911~exp=1682963511~hmac=aca0df906768f4ac1c3b783f2114b3ccad95fa5fe42b3054e687a600c3f84fd3",
         "name": "Karen Chen",
         "bio": "Chef Karen Chen is a rising star in the culinary world, with a focus on farm-to-table cuisine and sustainable practices. She has been recognized for her creative and eco-friendly approach to cooking.",
-        "years_of_experience": 6,
-        "ratings": 4.5,
+        "years_of_experience": 4,
+        "designation":"Commis Chef",
+        "ratings": 4.2,
         "no_of_recipes": 3,
         "recipes": [
             {
                 "name": "Classic Lasagna",
+                "image":"https://img.freepik.com/free-photo/italian-lasagne-served-with-rocket-salad_141793-1788.jpg?w=740&t=st=1683300459~exp=1683301059~hmac=030876eaf8f70db7398ea8b83d950e1427021f19286ce9c9a44fc5013a025f02",
                 "ingredients": [
                     "lasagna noodles",
                     "ground beef",
@@ -159,10 +173,11 @@
                     "mozzarella cheese"
                 ],
                 "cooking_method": "Cook lasagna noodles according to package instructions. In a large pan, sauté ground beef until browned. Add tomato sauce and simmer for 15-20 minutes. In a separate bowl, mix ricotta cheese with a pinch of salt and pepper. In a baking dish, layer cooked noodles, meat sauce, and ricotta cheese mixture. Repeat layers until all ingredients are used. Top with mozzarella cheese and bake at 375 degrees F for 25-30 minutes or until cheese is melted and bubbly.",
-                "rating": 4.5
+                "rating": 4.0
             },
             {
                 "name": "Roasted Chicken Thighs",
+                "image":"https://img.freepik.com/free-photo/top-view-cooked-chicken-with-greens-inside-plate-dark-blue-desk-chicken-meat-food-dinner-meat_140725-40008.jpg?w=740&t=st=1683300496~exp=1683301096~hmac=f27f903b8e2923c2f773ee344df21836f9dc02cccafaa07c06d8b996a08917ae",
                 "ingredients": [
                     "chicken thighs",
                     "garlic",
@@ -175,6 +190,7 @@
             },
             {
                 "name": "Vegetable Stir Fry",
+                "image":"https://img.freepik.com/free-photo/chicken-stir-fry-vegetables_123827-21544.jpg?w=740&t=st=1683300539~exp=1683301139~hmac=998a1542e7e5cf6f6eee2ddebaa8c4c710d29f5104611b4ac8b0207419e62633",
                 "ingredients": [
                     "broccoli",
                     "carrots",
@@ -189,15 +205,17 @@
     },
     {
         "id": 5,
-        "picture": "https://img.freepik.com/free-photo/medium-shot-chef-sharpening-knives_23-2148723274.jpg?w=826&t=st=1682962825~exp=1682963425~hmac=888635685a5b3bb854f016508a8f8d06baeaa99ed061bac42e83b0379474c441",
+        "picture": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-504.jpg?w=740&t=st=1683749567~exp=1683750167~hmac=7f3e7a35f6bd1f544dd413db1bf0528d242c27dd38daa21e2fd9b0f78d0b6743",
         "name": "Juan Rodriguez",
         "bio": "Chef Juan Rodriguez is a master of Latin American cuisine, with a specialty in Argentinean steak and grilled meats. He has owned and operated several successful restaurants throughout his career.",
         "years_of_experience": 12,
+        "designation":"Sous Chef",
         "ratings": 4.8,
         "no_of_recipes": 3,
         "recipes": [
             {
                 "name": "Caprese Salad",
+                "image":"https://img.freepik.com/free-photo/front-view-greece-salad-sliced-vegetable-salad-with-tomatoes-cucumbers-white-cheese-olives-inside-white-plate-vitamine-vegetables_140725-16048.jpg?w=740&t=st=1683300588~exp=1683301188~hmac=85ec31f8cb3d1e87f3e89d55d3fb596cc83d7f18a3bd63c33584c10d1a9ee85a",
                 "ingredients": [
                     "tomatoes",
                     "fresh mozzarella",
@@ -206,10 +224,11 @@
                     "olive oil"
                 ],
                 "cooking_method": "Slice tomatoes and fresh mozzarella and arrange them on a plate. Top with fresh basil leaves. Drizzle with balsamic vinegar and olive oil. Serve cold.",
-                "rating": 4.6
+                "rating": 4.0
             },
             {
                 "name": "Lemon Garlic Shrimp",
+                "image":"https://img.freepik.com/free-photo/side-view-boiled-river-shrimps-leaf-lettuce-with-lemon_141793-4777.jpg?w=740&t=st=1683300614~exp=1683301214~hmac=fa4782ae82421aa952f3ea255b1e51d931b8dcde730d7d64e976474fcad9431b",
                 "ingredients": [
                     "shrimp",
                     "garlic",
@@ -222,6 +241,7 @@
             },
             {
                 "name": "Spaghetti and Meatballs",
+                "image":"https://img.freepik.com/free-photo/fettuccine-pasta-with-meatballs-tomato-sauce_2829-20037.jpg?w=740&t=st=1683300661~exp=1683301261~hmac=a2191153e52b18e9a58da2cc2f0d88cb2c7c0df0f9d00bd72a5652c5c2bc8865",
                 "ingredients": [
                     "spaghetti noodles",
                     "ground beef",
@@ -240,11 +260,13 @@
         "name": "Sara Kim",
         "bio": "Chef Sara Kim is a Korean-American chef who brings a fresh and contemporary twist to traditional Korean dishes. She has been recognized for her innovative and playful approach to cooking.",
         "years_of_experience": 9,
+        "designation":"Food & Beverage Manager",
         "ratings": 5,
         "no_of_recipes": 3,
         "recipes": [
             {
                 "name": "Chicken Fajitas",
+                "image":"https://img.freepik.com/free-photo/mexican-quesadilla-wrap-with-chicken-corn-sweet-pepper-salsa_2829-19734.jpg?w=740&t=st=1683300705~exp=1683301305~hmac=c0a16316011cd6f24df85d6a5fa00ea53a7ad773c3ebdc6d2ba19d3f238751ac",
                 "ingredients": [
                     "chicken breasts",
                     "bell peppers",
@@ -253,10 +275,11 @@
                     "flour tortillas"
                 ],
                 "cooking_method": "Slice chicken breasts, bell peppers, and onion into thin strips. In a large pan, heat oil over medium-high heat. Add chicken and sauté until browned. Add sliced vegetables and taco seasoning and continue to sauté until vegetables are tender. Serve hot with warmed flour tortillas.",
-                "rating": 4.7
+                "rating": 4.4
             },
             {
                 "name": "Vegetable Soup",
+                "image":"https://img.freepik.com/free-photo/lentil-soup-with-chopped-herbs-crackers_114579-3534.jpg?w=740&t=st=1683300753~exp=1683301353~hmac=6e52902a3492c4077634c1f0ef6e94a939e0996857da9f7c01bb6144a8f5c716",
                 "ingredients": [
                     "carrots",
                     "celery",
@@ -265,10 +288,11 @@
                     "vegetable broth"
                 ],
                 "cooking_method": "Chop carrots, celery, onion, and potatoes into small pieces. In a large pot, heat vegetable broth over medium heat. Add chopped vegetables and simmer for 30-45 minutes or until vegetables are tender. Serve hot.",
-                "rating": 4.2
+                "rating": 4.0
             },
             {
                 "name": "Beef Tacos",
+                "image":"https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14218.jpg?w=740&t=st=1683300796~exp=1683301396~hmac=b451b3eac8baae2c4b04e58cde5f69d223879d2d8e38b36f2a5032f14e93581b",
                 "ingredients": [
                     "ground beef",
                     "taco seasoning",
